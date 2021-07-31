@@ -3,6 +3,7 @@ import numpy as np
 import time
 import pandas as pd
 import matplotlib.pyplot as plt
+#test czy działa push
 
 driver = webdriver.Chrome('C:\chromedriver_win32\chromedriver.exe')
 driver.get('https://www.lotto.pl/eurojackpot/wyniki-i-wygrane')
